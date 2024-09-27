@@ -1,3 +1,5 @@
+document.body.style.overflow = 'hidden'; // Ẩn thanh cuộn
+
 const $ = document.querySelector.bind(document);
 const $$ = document.querySelectorAll.bind(document);
 
