@@ -22,6 +22,12 @@ const app = {
 
   songs: [
     {
+      name: "Die With A Smile",
+      singer: "Lady Gaga, Bruno Mars",
+      path: "./assets/music/song0.mp3",
+      image: "./assets/image/song0.png",
+    },
+    {
       name: "Con Đường Tôi",
       singer: "Trọng Hiếu",
       path: "./assets/music/song1.mp3",
@@ -65,19 +71,19 @@ const app = {
     },
     {
       name: "Người Âm Phủ",
-      singer: "Leah Marie Perez",
+      singer: "OSAD",
       path: "./assets/music/song8.mp3",
       image: "./assets/image/song8.png",
     },
     {
       name: "Em Có Thể",
-      singer: "Leah Marie Perez",
+      singer: "OSAD",
       path: "./assets/music/song9.mp3",
       image: "./assets/image/song9.png",
     },
     {
       name: "Yêu Sắc Yếu",
-      singer: "Leah Marie Perez",
+      singer: "OSAD",
       path: "./assets/music/song10.mp3",
       image: "./assets/image/song10.png",
     },
